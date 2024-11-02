@@ -10,6 +10,9 @@
  [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
  [![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+### Framework
+* MySQL
+* Git, GitHub
 <!--
 **thanhkhon03/thanhkhon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
