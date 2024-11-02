@@ -1,5 +1,10 @@
 ## Hi there, I'm Thanh 👋
 
+- 🌱 I am studying at the University of Mining and Geology
+- 🔭 I love innovation and new technologies.Currently focusing Data Visualization, Blockchan,  
+- ⚡ Languages: Vietnamese, English
+- 
+
 <!--
 **thanhkhon03/thanhkhon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
