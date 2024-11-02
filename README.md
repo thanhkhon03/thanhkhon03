@@ -7,6 +7,7 @@
 ## Languages
  Python, HTML, PHP, Go
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+ [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 <!--
 **thanhkhon03/thanhkhon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
