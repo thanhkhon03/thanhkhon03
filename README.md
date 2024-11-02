@@ -5,9 +5,11 @@
 - ⚡ Languages: Vietnamese, English
   
 ## Languages
- Python, HTML, PHP, Go
+HTML, Go
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+ [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+ [![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 <!--
 **thanhkhon03/thanhkhon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
