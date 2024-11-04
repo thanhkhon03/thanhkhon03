@@ -1,4 +1,7 @@
 ## Hi there, I'm Thanh 👋
+**A passionate developer eager to learn and grow.**
+### About Me
+I'm currently a student at the University of Mining and Geology, where I'm gaining a solid foundation in computer science. I'm particularly interested in data visualization and blockchain technologies. Outside of coding, I enjoy exploring new programming languages and contributing to open-source projects.
 
 - 🌱 I am studying at the University of Mining and Geology
 - 🔭 I love innovation and new technologies.Currently focusing Data Visualization, Blockchain,  
@@ -13,6 +16,10 @@
 ### Framework
 * MySQL
 * Git, GitHub
+
+ ### Connect with me
+* **GitHub:** https://github.com/thanhkhon03/thanhkhon03/edit/main/README.md
+* **Email:** thanhkhon03@gmail.com
 <!--
 **thanhkhon03/thanhkhon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
