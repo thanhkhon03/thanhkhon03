@@ -2,7 +2,7 @@
 [My Facebook]([https://www.facebook.com/hoang.dev/](https://web.facebook.com/nguyen.ipin.1))
 
 - 🌱 I am studying at the University of Mining and Geology
-- 🔭 I love innovation and new technologies.Currently focusing Data Visualization, Blockchan,  
+- 🔭 I love innovation and new technologies.Currently focusing Data Visualization, Blockchain,  
 - ⚡ Languages: Vietnamese, English
   
 ## Languages
