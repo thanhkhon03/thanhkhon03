@@ -1,5 +1,5 @@
 ## Hi there, I'm Thanh 👋
-[My Facebook]([https://www.facebook.com/hoang.dev/](https://web.facebook.com/nguyen.ipin.1))
+[My Facebook]([https://www.facebook.com/nguyen.ipin.1/](https://web.facebook.com/nguyen.ipin.1))
 
 - 🌱 I am studying at the University of Mining and Geology
 - 🔭 I love innovation and new technologies.Currently focusing Data Visualization, Blockchain,  
