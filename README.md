@@ -12,6 +12,8 @@ I'm currently a student at the University of Mining and Geology, where I'm gaini
  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
  [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
  [![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ### Framework
 * MySQL
